@@ -1,2 +1,2 @@
-# form_compras
- Criando um Formulário que permite o usuário se registrar e fazer a compra e visualizar seu histórico de compras
+# django_basico
+ Curso Básico de Django do Canal Pythonando. Live de 1hr e 9 min
